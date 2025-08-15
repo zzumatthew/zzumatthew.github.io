@@ -1,10 +1,9 @@
 theme: jekyll-theme-minimal
 title: Matthew's 部落格
-description: 这个人很勤快，但就是不想写。
+description: 欲买桂花同载酒，终不似，少年游
 url: https://zzumatthew.github.io
 remote_theme: mmistakes/minimal-mistakes
 plugins:
   - jekyll-include-cache
 author:
   avatar: /assets/avatar/avatar1.jpg
-  bio: 欲买桂花同载酒，终不似，少年游
