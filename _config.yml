@@ -7,6 +7,6 @@ plugins:
   - jekyll-include-cache
 author:
   name: Matthew
-  avatar: /assets/img/avatar.jpg
-  bio: 这里写一句自我介绍
+  avatar: /assets/img/avatar1.jpg
+  bio: 欲买桂花同载酒，终不似，少年游
   location: Hangzhou, China
