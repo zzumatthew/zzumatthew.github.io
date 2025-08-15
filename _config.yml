@@ -1,3 +1,12 @@
 theme: jekyll-theme-minimal
 title: Matthew's 部落格
 description: 这个人很勤快，但就是不想写。
+url: https://zzumatthew.github.io
+remote_theme: mmistakes/minimal-mistakes
+plugins:
+  - jekyll-include-cache
+author:
+  name: Matthew
+  avatar: /assets/img/avatar.jpg
+  bio: 这里写一句自我介绍
+  location: Hangzhou, China
