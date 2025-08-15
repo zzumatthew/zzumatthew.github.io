@@ -13,3 +13,7 @@
   margin: 2px 0;      /* 控制段落上下间距 */
   font-size: 0.85rem; /* 字体稍微小一点 */
 }
+
+.footer {
+  font-size: 14px;
+}
