@@ -21,3 +21,11 @@
 #footer > footer > div.page__footer-follow{
   display: none !important;
 }
+
+/* 不想要顶部 */
+.masthead {
+  display: none !important;
+}
+.page__hero {
+  display: none !important;
+}
