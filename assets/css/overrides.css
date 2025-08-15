@@ -17,3 +17,7 @@
 .page__footer footer {
   font-size: 14px;
 }
+
+#footer > footer > div.page__footer-follow{
+  display: none !important;
+}
