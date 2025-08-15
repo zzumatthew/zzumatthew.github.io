@@ -6,7 +6,5 @@ remote_theme: mmistakes/minimal-mistakes
 plugins:
   - jekyll-include-cache
 author:
-  name: Matthew
-  avatar: /assets/img/avatar1.jpg
+  avatar: /assets/avatar/avatar1.jpg
   bio: 欲买桂花同载酒，终不似，少年游
-  location: Hangzhou, China
