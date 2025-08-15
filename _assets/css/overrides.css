@@ -1,0 +1,15 @@
+.site-footer {
+  padding-top: 8px;   /* 原主题可能是 24px */
+  padding-bottom: 8px;
+  line-height: 1.4;   /* 控制文字行高 */
+}
+
+.footer-inner {
+  margin: 0 auto;     /* 居中 */
+  max-width: 1000px;  /* 可选，限制宽度 */
+}
+
+.site-footer p {
+  margin: 2px 0;      /* 控制段落上下间距 */
+  font-size: 0.85rem; /* 字体稍微小一点 */
+}
